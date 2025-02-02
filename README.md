@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone! 👋
 
 ![C# csharp logo](https://github.com/user-attachments/assets/626b08a7-925e-4125-8db2-aa086f44dfb7) [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
