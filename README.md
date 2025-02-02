@@ -1,11 +1,11 @@
 <h1 align="center">Hello everyone! 👋, I'm kez (notkez)</h1>
 <h3 align="center">I'm a beginner programmer/coder from Czechia!</h3>
 
-- 🌱 I’m currently learning **C#, although I was making a cs2 cheat and stuff in C+ and some hacking stuff in C# I am still learning and I don't know much, but I promise ill learn everything and ill make usefull programs and apps for you guys!**
+- 🌱 I’m currently learning: **C#, although I was making a cs2 cheat and stuff in C+ and some hacking stuff in C# I am still learning and I don't know much, but I promise ill learn everything and ill make usefull programs and apps for you guys!**
 
-- 📫 How to reach me **Down here are all of my important socials!**
+- 📫 Wanna contact me? **Down here are all of my important socials!**
 
-- ⚡ Fun fact **I like pizza**
+- ⚡ Fun fact: **I like pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
